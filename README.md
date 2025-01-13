@@ -35,36 +35,8 @@ Express_Task_7/
    - `GET /user/:id`: Render a user details page in HTML format.
 
 2. **Data Storage**:
-   - User data is stored in `users.json`:
-     ```json
-     [
-       {
-         "id": 1,
-         "name": "Alice",
-         "email": "alice@example.com",
-         "age": 25
-       },
-       {
-         "id": 2,
-         "name": "Bob",
-         "email": "bob@example.com",
-         "age": 30
-       },
-       {
-         "id": 3,
-         "name": "Charlie",
-         "email": "charlie@example.com",
-         "age": 28
-       },
-       {
-         "id": 4,
-         "name": "Diana",
-         "email": "diana@example.com",
-         "age": 22
-       }
-     ]
-     ```
-
+   - User data is stored in `users.json`
+   
 3. **Server-Side Rendering**:
    - Serve user details as an HTML page for the `/user/:id` route.
 
@@ -76,7 +48,7 @@ Express_Task_7/
 
 ### How to Run:
 1. Clone the repository.
-2. Navigate to the project directory.
+2. Open the project directory.
 3. Install Node.js and the necessary dependencies:
    ```bash
    npm install
