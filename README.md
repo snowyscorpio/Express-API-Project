@@ -18,7 +18,7 @@ This repository contains a solution to an API and server-side rendering exercise
 
 ### Project Structure:
 ```plaintext
-Express_Task_7/
+Express-API-Project/
 ├── app.js
 ├── package.json
 ├── users.json
