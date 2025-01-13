@@ -99,5 +99,5 @@ Express_Task_7/
 Have a great day ♡
 
 
-![CuteCat](https://github.com/user-attachments/assets/6cec9f7e-dfab-4914-91ba-50cf140bc9de)
+![CuteCat](https://github.com/user-attachments/assets/191e0612-1861-4915-8007-fcc20784854a)
 
