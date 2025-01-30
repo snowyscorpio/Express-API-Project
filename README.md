@@ -47,7 +47,7 @@ Express-API-Project/
 - `/user/1`: Renders an HTML page displaying the details of the user with ID 1.
 
 ### How to Run:
-1. Clone the repository.
+1. Download the project as a ZIP file and extract it.
 2. Open the project directory.
 3. Install Node.js and the necessary dependencies:
    ```bash
